@@ -21,6 +21,8 @@ Functions :
 8.Release archive - search engine of released items (will be developed later, now just allow to search)
 
 
+
+
 System magazynowy
 
 Prosty system zarządzania towarem na magazynie, utworzony przy użyciu biblioteki pythona - tkinter
