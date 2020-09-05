@@ -11,6 +11,7 @@ Functions :
 7.Release item(in search engine) - after rightclick on item allows to perform a release from stock. Need aditional data : release date, quantity and describe
 8.Release archive - search engine of released items (will be developed later, now just allow to search)
 
+
 System magazynowy
 Prosty system zarządzania towarem na magazynie, utworzony przy użyciu biblioteki pythona - tkinter
 
