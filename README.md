@@ -20,7 +20,7 @@ Funkcje:
 3.Lista lokacji - wyświetla listę utworzonych lokacji
 4.Wyszukaj pozycję - wyszukiwarka towarów na magazynie. Pozwala na wyszukiwanie po każdej charakterystyce towaru (nazwa,lokalizacja,rozmiar,ilość...)
 5.Edytuj (w wyszukiwarce) - po kliknięciu prawym przyciskiem myszy pozwala na edytowanie charakterystyk towaru na stanie
-6.Usuń (w wyszukiwarce) - po kliknięciu prawym przyciskiem myszy pozwala na całkowite usunięcie pozycji ze stanu
+6.Usuń (w wyszukiwarce) - po kliknięciu prawym przyciskiem myszy pozwala na całkowite usunięcie pozycji ze stanu.
 7.Wydaj z magazynu - po kliknięciu prawym przyciskiem myszy pozwala przeprowadzić wydanie - niezbędne jest podanie dodatkowych danych : data wydania, ilość i opis wydania.
 8.Archiwum wydań - wyszukiwarka pozycji wydanych z magazynu (w fazie rozwoju, obecnie jedynie możliwość przeglądania)
 
